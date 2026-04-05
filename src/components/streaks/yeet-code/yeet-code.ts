@@ -1,0 +1,9 @@
+const logs = [
+  { date: "2026-04-01", count: 2 },
+  { date: "2026-04-02", count: 1 },
+  { date: "2026-04-03", count: 1 },
+  { date: "2026-04-04", count: 1 },
+  { date: "2026-04-05", count: 1 },
+]
+
+export { logs }
