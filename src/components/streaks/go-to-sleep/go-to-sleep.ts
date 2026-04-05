@@ -1,9 +1,9 @@
 const logs = [
-  { date: "2026-04-01", completed: false },
-  { date: "2026-04-02", completed: false },
-  { date: "2026-04-03", completed: false },
-  { date: "2026-04-04", completed: false },
-  { date: "2026-04-05", completed: false },
+  { date: "01-04-2026", completed: false },
+  { date: "02-04-2026", completed: false },
+  { date: "03-04-2026", completed: false },
+  { date: "04-04-2026", completed: false },
+  { date: "05-04-2026", completed: false },
 ]
 
 export { logs }
