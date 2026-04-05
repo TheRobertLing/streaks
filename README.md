@@ -1,6 +1,7 @@
 # Streaks
 
-A unified site to showcase my streaks for goals and habits that I am working towards
+A unified site to showcase my streaks for goals and habits that I am working towards.
+Check it out [here](https://therobertling.github.io/streaks/)
 
 ## Active Streaks
 
