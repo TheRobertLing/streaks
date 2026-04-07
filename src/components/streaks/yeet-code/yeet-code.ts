@@ -5,6 +5,7 @@ const logs = [
   { date: "04-04-2026", count: 1 },
   { date: "05-04-2026", count: 1 },
   { date: "06-04-2026", count: 1 },
+  { date: "06-04-2026", count: 1 },
 ]
 
 export { logs }
