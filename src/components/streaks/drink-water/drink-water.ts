@@ -6,7 +6,8 @@ const logs = [
   { date: "05-04-2026", completed: true },
   { date: "06-04-2026", completed: true },
   { date: "07-04-2026", completed: true },
-  { date: "07-04-2026", completed: true },
+  { date: "08-04-2026", completed: true },
+  { date: "09-04-2026", completed: true },
 ]
 
 export { logs }
