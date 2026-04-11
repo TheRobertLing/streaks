@@ -8,7 +8,8 @@ const logs = [
   { date: "07-04-2026", count: 1 },
   { date: "08-04-2026", count: 1 },
   { date: "09-04-2026", count: 1 },
-  { date: "09-04-2026", count: 1 },
+  { date: "10-04-2026", count: 1 },
+  { date: "11-04-2026", count: 1 },
 ];
 
 export { logs };
