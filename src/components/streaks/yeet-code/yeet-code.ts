@@ -15,6 +15,7 @@ const logs = [
   { date: "14-04-2026", count: 1 },
   { date: "15-04-2026", count: 1 },
   { date: "16-04-2026", count: 1 },
+  { date: "16-04-2026", count: 0 },
 ];
 
 export { logs };

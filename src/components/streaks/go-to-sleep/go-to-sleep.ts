@@ -15,6 +15,7 @@ const logs = [
   { date: "14-04-2026", completed: false },
   { date: "15-04-2026", completed: false },
   { date: "16-04-2026", completed: false },
+  { date: "17-04-2026", completed: false },
 ]
 
 export { logs }
