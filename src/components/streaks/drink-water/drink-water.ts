@@ -19,6 +19,7 @@ const logs = [
   { date: "18-04-2026", completed: false },
   { date: "19-04-2026", completed: false },
   { date: "20-04-2026", completed: false },
+  { date: "21-04-2026", completed: true },
   { date: "22-04-2026", completed: true },
 ];
 
