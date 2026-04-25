@@ -23,6 +23,7 @@ const logs = [
   { date: "22-04-2026", count: 1 },
   { date: "23-04-2026", count: 1 },
   { date: "24-04-2026", count: 1 },
+  { date: "25-04-2026", count: 1 },
 ];
 
 export { logs };
